@@ -5,3 +5,8 @@ function solution(numbers) {
       return newArray[newArray.length - 1] * newArray[newArray.length - 2]
   } else return newArray[0] * newArray[1]
 }
+
+
+
+
+
