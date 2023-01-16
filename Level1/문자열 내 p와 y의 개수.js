@@ -14,3 +14,5 @@ function solution(s){
   }
   return pBox.length != 0 && yBox.length != 0 && pBox == yBox
 }
+
+// for 문을 빠져나와서 다시 if 문을 돌려야 한다는것
