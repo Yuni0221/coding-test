@@ -8,3 +8,5 @@ function solution(price, money, count) {
       return Math.abs(money - playCount);
   }
 }
+
+// 마지막 코드는 삼항연산자로 쓸 수 있음
