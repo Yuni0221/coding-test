@@ -1,11 +1,11 @@
 function solution(my_string, letter) {
-  var answer = []; 
-  
+  var answer = [];
+
   for (let i = 0; i < my_string.length; i++)
-      if (my_string[i] == letter) {
-          continue;
-      } else {
-          answer.push(my_string[i])
-      }
+    if (my_string[i] == letter) {
+      continue;
+    } else {
+      answer.push(my_string[i]);
+    }
   return answer.join("");
 }
