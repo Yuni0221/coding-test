@@ -6,3 +6,5 @@ function solution(dots) {
 
   return x * y;
 }
+
+// 꼭짓점의 최대값 최소값을 먼저 지정해주면 됨
